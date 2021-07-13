@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon, FontAwesomeIconProps } from '@fortawesome/react-fontawesome'
-import './Button.scss'
+import './Button.css'
 
 export interface ButtonProps {
   /**
